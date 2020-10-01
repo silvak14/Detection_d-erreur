@@ -10,3 +10,6 @@ A retenir que un octet va de 0x00 a 0xff, soit de a 255 en decimal,le dernir bit
 
 C'est  a dire que s'il a'agit d'envoi d'un code ASCII,on ne gere pas la table etendue.
 Il est possible avec la part des uc de mettre le 9 eme bit dans la trame pour la parite.
+
+
+Pour la somme j'ai bien expliquer mon code a travers les commentaires.
